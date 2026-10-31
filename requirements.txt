@@ -1,0 +1,6 @@
+# Main demo: gui_chat_rag.py
+# Versions deliberately not pinned: exact installed versions on the developer PC are unknown.
+streamlit
+pymupdf
+langchain-ollama
+langchain-core
